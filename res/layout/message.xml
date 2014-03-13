@@ -82,7 +82,9 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:fontFamily="sans-serif-light"
-                        android:layout_marginLeft="2dp"/>
+                        android:layout_marginLeft="2dp"
+                        android:paddingRight="5dp"
+                        android:paddingLeft="5dp"/>
 
             <ImageView
                     android:layout_width="wrap_content"
