@@ -48,6 +48,11 @@ limitations under the License.
     <color name="night_messageEntryColor">#f4f4f4</color>
 
 
+    <!-- the color of the message entry hint, ie the text that says "type message" -->
+    <color name="messageHintColor">#88020202</color>
+    <color name="night_messageHintColor">#88f4f4f4</color>
+
+
     <!-- the color of the background for the drawer -->
     <color name="drawerBackground">#ffffff</color>
     <color name="night_drawerBackground">#292929</color>
