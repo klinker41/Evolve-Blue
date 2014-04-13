@@ -18,7 +18,7 @@ limitations under the License.
 <resources>
 
     <!-- the name of your theme -->
-    <string name="app_name">EvolveSMS Blue</string>
+    <string name="app_name">Evolve Blue</string>
 
 
     <!-- the alignment for each of your textviews in a message, can be left, center, or right -->
