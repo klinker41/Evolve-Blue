@@ -76,6 +76,7 @@ limitations under the License.
     <color name="backgroundColor">#dddddd</color>
     <color name="night_backgroundColor">#262626</color>
 
+    
     <!-- the background color of a selected conversation in the conversation list (ie, the conversation -->
     <!-- that the user is currently viewing -->
     <color name="selectedConversationColor">#448e8e8e</color>
