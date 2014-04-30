@@ -76,11 +76,20 @@ limitations under the License.
     <color name="backgroundColor">#dddddd</color>
     <color name="night_backgroundColor">#262626</color>
 
-    
+
     <!-- the background color of a selected conversation in the conversation list (ie, the conversation -->
     <!-- that the user is currently viewing -->
     <color name="selectedConversationColor">#448e8e8e</color>
     <color name="night_selectedConversationColor">#448e8e8e</color>
+
+
+    <!-- the colors for batch delete bubbles when the user is deleting conversations -->
+    <color name="cancelBatch">#99CC00</color>
+    <color name="deleteBatch">#CC0000</color>
+    <color name="infoBatch">#33B5E5</color>
+    <color name="night_cancelBatch">#99CC00</color>
+    <color name="night_deleteBatch">#CC0000</color>
+    <color name="night_infoBatch">#33B5E5</color>
 
 
     <!-- include any other colors you may want to use in your layout below, these will
