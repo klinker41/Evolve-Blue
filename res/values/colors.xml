@@ -92,6 +92,13 @@ limitations under the License.
     <color name="night_infoBatch">#33B5E5</color>
 
 
+    <!-- the colors for the delayed sending progress bubble that shows on screen after sending a message -->
+    <color name="delayedSendingCircle">#CC0000</color>
+    <color name="delayedSendingProgress">#FFFFFF</color>
+    <color name="night_delayedSendingCircle">#CC0000</color>
+    <color name="night_delayedSendingProgress">#FFFFFF</color>
+
+
     <!-- include any other colors you may want to use in your layout below, these will
          not have any effect except in your message.xml if you include them -->
 
